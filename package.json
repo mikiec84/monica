@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "animate.css": "^3.6.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "4.0.0-alpha.2",
     "font-awesome": "^4.7.0",
     "gulp": "^3.9.1",
